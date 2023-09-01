@@ -48,4 +48,6 @@ You can always refer to the labs as a reference with describing how you would co
    
 5. Modeling and Evaluation: The fifth step is to build the machine learning model and evaluate its performance. This can be done by splitting the dataset into a training set and a test set. The model ise then trained on the training set and evaluated on the test set.
 
+https://www.coursera.org/learn/data-science-methodology/peer/LRAgH/final-assignment/review/VbJOOkigEe6jfgpvtiJOLw
+
 
